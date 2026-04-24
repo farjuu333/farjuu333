@@ -32,4 +32,17 @@
 ---
 
 ## 📊 GitHub Stats:
-![Farjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=farjuu333&show_icons=true&theme=radical)
+
+![Farjana's Streak](https://github-readme-streak-stats.herokuapp.com/?user=farjuu333&theme=radical)
+
+<br/>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=farjuu333&show_icons=true&theme=radical" alt="Farjana's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farjuu333&layout=compact&theme=radical" alt="Most Used Languages" height="180px" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies:
+[![github contribution trophies](https://github-profile-trophy.vercel.app/?username=farjuu333&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
