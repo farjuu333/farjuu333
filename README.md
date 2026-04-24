@@ -1,5 +1,3 @@
-# Hi there, I'm Farjana Akter 👋
-
 ###  Aspiring Frontend Developer | React & Next.js Enthusiast
 
 -  I’m currently working on **Modern Web Applications**
