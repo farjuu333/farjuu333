@@ -33,13 +33,13 @@
 
 ## 📊 GitHub Stats:
 
-![Farjana's Streak](https://github-readme-streak-stats.herokuapp.com/?user=farjuu333&theme=radical)
+![Farjana's Streak](https://github-readme-streak-stats.herokuapp.com/?user=farjuu333&theme=default&fire=orange&currStreakLabel=orange)
 
 <br/>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=farjuu333&show_icons=true&theme=radical" alt="Farjana's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farjuu333&layout=compact&theme=radical" alt="Most Used Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=farjuu333&show_icons=true&theme=default&title_color=eb1f6a&icon_color=f85d7f&text_color=333&bg_color=ffffff" alt="Farjana's GitHub stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farjuu333&layout=compact&theme=default&title_color=eb1f6a&text_color=333&bg_color=ffffff" alt="Most Used Languages" height="180px" />
 </p>
 
 ---
