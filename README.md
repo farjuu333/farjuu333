@@ -38,8 +38,8 @@
 <br/>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=farjuu333&show_icons=true&theme=default&title_color=eb1f6a&icon_color=f85d7f&text_color=333&bg_color=ffffff" alt="Farjana's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farjuu333&layout=compact&theme=default&title_color=eb1f6a&text_color=333&bg_color=ffffff" alt="Most Used Languages" height="180px" />
+ ![Farjana's Stats](https://github-readme-stats.vercel.app/api?username=farjuu333&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farjuu333&layout=compact&theme=radical)
 </p>
 
 ---
